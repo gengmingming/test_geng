@@ -17,6 +17,8 @@ public class TestMai {
         System.out.println("99999999999");
         System.out.println("99999999999");
         System.out.println("99999999999");
+        System.out.println("8888888");
+        System.out.println("8888888");
          System.out.println("99999999999");
          System.out.println("99999999999");
         return super.toString();
