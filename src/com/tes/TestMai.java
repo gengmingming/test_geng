@@ -9,4 +9,14 @@ public class TestMai {
         System.out.println("99999999999");
         return super.toString();
     }
+
+
+    public String toString2() {
+        //8888888888
+        System.out.println("99999999999");
+        System.out.println("99999999999");
+        System.out.println("99999999999");
+        return super.toString();
+    }
+
 }
