@@ -25,6 +25,7 @@ public class TestMai {
         System.out.println("99999999999");
         System.out.println("99999999999");
         System.out.println("99999999999");
+        System.out.println("7777777777");
         return super.toString();
     }
 
